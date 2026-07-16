@@ -42,3 +42,7 @@ End-to-end digital marketing data analysis using Excel, featuring interactive da
 	- Facebook vs Instagram reach trend, Website traffic trend, and Airbnb bookings & revenue trend — every chart already spans through Dec 2027, so new data appears the moment you enter it.
 	- An interactive channel selector (dropdown) that redraws a trend chart for whichever channel you pick.
 <img width="932" height="1065" alt="image" src="https://github.com/user-attachments/assets/a75640fc-2140-4e7d-af0f-4d2855464563" />
+<img width="1336" height="488" alt="Dashbord 2" src="https://github.com/user-attachments/assets/bdb57579-e440-4e48-85c1-564684e1c8cf" />
+<img width="1214" height="432" alt="dashboard 2" src="https://github.com/user-attachments/assets/450e9778-60ef-4d1e-a601-f4a57294133f" />
+<img width="1316" height="420" alt="dashboard 1" src="https://github.com/user-attachments/assets/14436559-5815-44f9-b808-64e37a64379b" />
+<img width="1275" height="484" alt="dasboard" src="https://github.com/user-attachments/assets/5fa8ded9-03ff-4240-bf7f-1590a506c7ca" />
